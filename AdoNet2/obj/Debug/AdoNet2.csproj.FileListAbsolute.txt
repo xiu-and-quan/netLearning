@@ -1,0 +1,17 @@
+D:\MyData\shizq18\Desktop\net学习\netLearning\AdoNet2\bin\Debug\AdoNet2.exe.config
+D:\MyData\shizq18\Desktop\net学习\netLearning\AdoNet2\bin\Debug\AdoNet2.exe
+D:\MyData\shizq18\Desktop\net学习\netLearning\AdoNet2\bin\Debug\AdoNet2.pdb
+D:\MyData\shizq18\Desktop\net学习\netLearning\AdoNet2\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\MyData\shizq18\Desktop\net学习\netLearning\AdoNet2\bin\Debug\System.Security.AccessControl.dll
+D:\MyData\shizq18\Desktop\net学习\netLearning\AdoNet2\bin\Debug\System.Security.Permissions.dll
+D:\MyData\shizq18\Desktop\net学习\netLearning\AdoNet2\bin\Debug\System.Security.Principal.Windows.dll
+D:\MyData\shizq18\Desktop\net学习\netLearning\AdoNet2\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\MyData\shizq18\Desktop\net学习\netLearning\AdoNet2\bin\Debug\System.Security.AccessControl.xml
+D:\MyData\shizq18\Desktop\net学习\netLearning\AdoNet2\bin\Debug\System.Security.Permissions.xml
+D:\MyData\shizq18\Desktop\net学习\netLearning\AdoNet2\bin\Debug\System.Security.Principal.Windows.xml
+D:\MyData\shizq18\Desktop\net学习\netLearning\AdoNet2\obj\Debug\AdoNet2.csproj.AssemblyReference.cache
+D:\MyData\shizq18\Desktop\net学习\netLearning\AdoNet2\obj\Debug\AdoNet2.csproj.SuggestedBindingRedirects.cache
+D:\MyData\shizq18\Desktop\net学习\netLearning\AdoNet2\obj\Debug\AdoNet2.csproj.CoreCompileInputs.cache
+D:\MyData\shizq18\Desktop\net学习\netLearning\AdoNet2\obj\Debug\AdoNet2.csproj.CopyComplete
+D:\MyData\shizq18\Desktop\net学习\netLearning\AdoNet2\obj\Debug\AdoNet2.exe
+D:\MyData\shizq18\Desktop\net学习\netLearning\AdoNet2\obj\Debug\AdoNet2.pdb
