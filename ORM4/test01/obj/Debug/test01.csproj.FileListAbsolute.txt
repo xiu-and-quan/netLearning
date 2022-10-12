@@ -1,0 +1,15 @@
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\test01\bin\Debug\test01.exe.config
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\test01\bin\Debug\test01.exe
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\test01\bin\Debug\test01.pdb
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\test01\bin\Debug\EntityFramework.dll
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\test01\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\test01\bin\Debug\EntityFramework.xml
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\test01\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\test01\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\test01\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\test01\obj\Debug\test01.csproj.AssemblyReference.cache
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\test01\obj\Debug\test01.csproj.SuggestedBindingRedirects.cache
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\test01\obj\Debug\test01.csproj.CoreCompileInputs.cache
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\test01\obj\Debug\test01.csproj.CopyComplete
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\test01\obj\Debug\test01.exe
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\test01\obj\Debug\test01.pdb

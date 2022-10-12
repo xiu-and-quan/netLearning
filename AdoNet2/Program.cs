@@ -144,68 +144,76 @@ namespace AdoNet2
         //到目前为止，我只理解了前半句话，SqlParameter类型的数组作为SqlCommand的参数存在，
         //配合转义字符@，可以有效的防止' or 1=1--单引号而截断字符串，这一经典的注入语句，
         //有效提高拼接型sql命令的安全性。
-        static void Main(string[] args)
-            {
-            try {
-                string conStr = ConfigurationManager.ConnectionStrings["connStr"].ConnectionString;
-                //创建连接
-                using (SqlConnection sql = new SqlConnection(conStr))
-                {
+        //static void Main(string[] args)
+        //    {
+        //    try {
+        //        string conStr = ConfigurationManager.ConnectionStrings["connStr"].ConnectionString;
+        //        //创建连接
+        //        using (SqlConnection sql = new SqlConnection(conStr))
+        //        {
                   
                     
-                    string sqlS = "select * from UserInfos where UserName=@UserName";
-                    //参数化的sql使用
-                    SqlCommand sqlCommand = new SqlCommand(sqlS, sql);
-                    //学过C#的人都知道C# 中字符串常量可以以@ 开头声名，这样的优点是转义序列“不”被处理，按“原样”输出，即我们不需要对转义字符加上 \ （反斜扛），就可以轻松coding。如，
+        //            string sqlS = "select * from UserInfos where UserName=@UserName";
+        //            //参数化的sql使用
+        //            SqlCommand sqlCommand = new SqlCommand(sqlS, sql);
+        //            //学过C#的人都知道C# 中字符串常量可以以@ 开头声名，这样的优点是转义序列“不”被处理，按“原样”输出，即我们不需要对转义字符加上 \ （反斜扛），就可以轻松coding。如，
 
-                    //返回值类型为SqlParameter
-                    //sqlCommand.Parameters.Add(new SqlParameter("@UserName","@quan"));
+        //            //返回值类型为SqlParameter
+        //            //sqlCommand.Parameters.Add(new SqlParameter("@UserName","@quan"));
 
-                    //添加单个参数 推荐使用 值参数不能加  @作为sql语句里的一个“标签”，声明此处需要插入一个参数,类似占位符
-                    sqlCommand.Parameters.AddWithValue("@UserName", "quan");
-                    //开启连接
-                    sql.Open();
-                    object res = sqlCommand.ExecuteScalar();
-                    Console.WriteLine(res);
+        //            //添加单个参数 推荐使用 值参数不能加  @作为sql语句里的一个“标签”，声明此处需要插入一个参数,类似占位符
+        //            //sqlCommand.Parameters.AddWithValue("@UserName", "quan");
+        //            SqlParameter sqlParameter = new SqlParameter("@UserName", "quan");
+        //            sqlCommand.Parameters.Add(sqlParameter);
+        //            //设置输入输出参数
+        //            /*
+        //             输入参数：参数化sql语句或存储过程，默认使用参数是输入参数
+        //            输出参数：程序中可以接收到的值
+        //             */
+        //            sqlParameter.Direction = ParameterDirection.Input;
+        //            //开启连接
+        //            sql.Open();
+        //            object res = sqlCommand.ExecuteScalar();
+        //            Console.WriteLine(res);
 
-                    //多个参数的情况 数组
-                    /*SqlParameter[] paras = {
-                        new SqlParameter("@UserName","@xiu"),
-                        new SqlParameter("@Age",18),
-                        new SqlParameter("@DeptId",1),
-                        new SqlParameter("@UserPwd",123),
+        //            //多个参数的情况 数组
+        //            /*SqlParameter[] paras = {
+        //                new SqlParameter("@UserName","@xiu"),
+        //                new SqlParameter("@Age",18),
+        //                new SqlParameter("@DeptId",1),
+        //                new SqlParameter("@UserPwd",123),
 
-                    };
-                    sqlCommand.Parameters.AddRange(paras);*/
-                }
-            }
-            catch (Exception e) { 
-                Console.WriteLine(e.Message);
-            }                
-            /*//方式1 空参
-            SqlParameter sqlParameter = new SqlParameter();
-            sqlParameter.ParameterName = "@UserName";
-            sqlParameter.SqlDbType = SqlDbType.VarChar;//数据类型
-            sqlParameter.Value = "maLi";//参数值
-            sqlParameter.Size = 20;
+        //            };
+        //            sqlCommand.Parameters.AddRange(paras);*/
+        //        }
+        //    }
+        //    catch (Exception e) { 
+        //        Console.WriteLine(e.Message);
+        //    }                
+        //    /*//方式1 空参
+        //    SqlParameter sqlParameter = new SqlParameter();
+        //    sqlParameter.ParameterName = "@UserName";
+        //    sqlParameter.SqlDbType = SqlDbType.VarChar;//数据类型
+        //    sqlParameter.Value = "maLi";//参数值
+        //    sqlParameter.Size = 20;
 
-            //方式2 参数名和值
-            SqlParameter sqlParameter2 = new SqlParameter("@Age",24);
+        //    //方式2 参数名和值
+        //    SqlParameter sqlParameter2 = new SqlParameter("@Age",24);
 
-            //方式3 参数名和类型
-            SqlParameter sqlParameter3 = new SqlParameter("@DeptId",SqlDbType.Int);
+        //    //方式3 参数名和类型
+        //    SqlParameter sqlParameter3 = new SqlParameter("@DeptId",SqlDbType.Int);
 
-            //方式4 多参数
-            SqlParameter sqlParameter4 = new SqlParameter("@UserPwd",SqlDbType.Int,20);
-            sqlParameter4.Value = 123;
+        //    //方式4 多参数
+        //    SqlParameter sqlParameter4 = new SqlParameter("@UserPwd",SqlDbType.Int,20);
+        //    sqlParameter4.Value = 123;
 
-            //方式5 参数名称 类型 大小 源列名（对应数据库里面的名字 相当于给添加映射关系DataTable中的列名）
-            SqlParameter sqlParameter5 = new SqlParameter("@UserName",SqlDbType.VarChar,20,"UserName");
+        //    //方式5 参数名称 类型 大小 源列名（对应数据库里面的名字 相当于给添加映射关系DataTable中的列名）
+        //    SqlParameter sqlParameter5 = new SqlParameter("@UserName",SqlDbType.VarChar,20,"UserName");
 
-            //SqlCommand是拼接SQL字符串,存在sql注入*/
+        //    //SqlCommand是拼接SQL字符串,存在sql注入*/
 
 
-        }
+        //}
 
         //常用属性：Dbtype参数的数据类型
         //Direction 参数的类型 输入输出返回值
@@ -234,5 +242,71 @@ namespace AdoNet2
                 Console.WriteLine(e.Message);
             }
         }*/
-    }
+
+        static void Main(string[] args) {
+            //SqlDataReader 类 提供一种从 SQL Server 数据库中读取只进的行流的方式。单向 连接对象一直保持open，用完需要关闭
+            string connStr = ConfigurationManager.ConnectionStrings["connStr"].ConnectionString;
+            ReadOrderData(connStr);
+        }
+
+        private static void ReadOrderData(string connectionString)
+        {
+            string queryString =
+                "SELECT * FROM UserInfos";
+
+            using (SqlConnection connection =
+                        new SqlConnection(connectionString))
+            {
+                SqlCommand command =
+                    new SqlCommand(queryString, connection);
+                connection.Open();
+                //没有读取到末尾就要关闭reader对象时，先调用cmd.cancel() 防止返回空数据;再调用read.close()
+                //若要创建对象 SqlDataReader，必须调用 ExecuteReader 对象的方法 SqlCommand ，而不是直接使用构造函数
+                /*
+                 属性
+                Connection	
+                获取与 SqlConnection 关联的 SqlDataReader。
+
+                Depth	
+                获取一个值，用于指示当前行的嵌套深度。
+
+                FieldCount	
+                获取当前行中的列数。
+
+                HasRows	
+                获取一个值，该值指示 SqlDataReader 是否包含一行还是多行。
+
+                IsClosed	
+                检索一个布尔值，该值指示是否已关闭指定的 SqlDataReader 实例。
+
+                Item[Int32]	
+                在给定列序号的情况下，获取指定列的以本机格式表示的值。
+
+                Item[String]	
+                在给定列名称的情况下，获取指定列的以本机格式表示的值。
+
+                RecordsAffected	
+                获取执行 Transact-SQL 语句所更改、插入或删除的行数。
+
+                VisibleFieldCount	
+                获取 SqlDataReader 中未隐藏的字段的数目。
+                 */
+                SqlDataReader reader = command.ExecuteReader();
+
+                // Call Read before accessing data.
+                while (reader.Read())
+                {
+                    ReadSingleRow((IDataRecord)reader);
+                }
+
+                // Call Close when done reading.
+                reader.Close();
+            }
+        }
+
+        private static void ReadSingleRow(IDataRecord dataRecord)
+        {
+            Console.WriteLine(String.Format("{0}, {1}", dataRecord[0], dataRecord[1]));
+        }
+    }   
 }
