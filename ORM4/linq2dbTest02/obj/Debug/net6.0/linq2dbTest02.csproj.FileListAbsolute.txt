@@ -1,0 +1,17 @@
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\linq2dbTest02\bin\Debug\net6.0\linq2dbTest02.exe
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\linq2dbTest02\bin\Debug\net6.0\linq2dbTest02.deps.json
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\linq2dbTest02\bin\Debug\net6.0\linq2dbTest02.runtimeconfig.json
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\linq2dbTest02\bin\Debug\net6.0\linq2dbTest02.dll
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\linq2dbTest02\bin\Debug\net6.0\linq2dbTest02.pdb
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\linq2dbTest02\bin\Debug\net6.0\linq2db.dll
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\linq2dbTest02\obj\Debug\net6.0\linq2dbTest02.csproj.AssemblyReference.cache
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\linq2dbTest02\obj\Debug\net6.0\linq2dbTest02.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\linq2dbTest02\obj\Debug\net6.0\linq2dbTest02.AssemblyInfoInputs.cache
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\linq2dbTest02\obj\Debug\net6.0\linq2dbTest02.AssemblyInfo.cs
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\linq2dbTest02\obj\Debug\net6.0\linq2dbTest02.csproj.CoreCompileInputs.cache
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\linq2dbTest02\obj\Debug\net6.0\linq2dbTest02.csproj.CopyComplete
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\linq2dbTest02\obj\Debug\net6.0\linq2dbTest02.dll
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\linq2dbTest02\obj\Debug\net6.0\refint\linq2dbTest02.dll
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\linq2dbTest02\obj\Debug\net6.0\linq2dbTest02.pdb
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\linq2dbTest02\obj\Debug\net6.0\linq2dbTest02.genruntimeconfig.cache
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\linq2dbTest02\obj\Debug\net6.0\ref\linq2dbTest02.dll

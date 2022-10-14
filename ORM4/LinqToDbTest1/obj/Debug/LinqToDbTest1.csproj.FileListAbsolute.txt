@@ -1,0 +1,17 @@
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\LinqToDbTest1\obj\Debug\LinqToDbTest1.csproj.AssemblyReference.cache
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\LinqToDbTest1\obj\Debug\LinqToDbTest1.csproj.SuggestedBindingRedirects.cache
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\LinqToDbTest1\obj\Debug\LinqToDbTest1.csproj.CoreCompileInputs.cache
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\LinqToDbTest1\bin\Debug\LinqToDbTest1.exe.config
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\LinqToDbTest1\bin\Debug\LinqToDbTest1.exe
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\LinqToDbTest1\bin\Debug\LinqToDbTest1.pdb
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\LinqToDbTest1\bin\Debug\linq2db.dll
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\LinqToDbTest1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\LinqToDbTest1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\LinqToDbTest1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\LinqToDbTest1\bin\Debug\linq2db.xml
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\LinqToDbTest1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\LinqToDbTest1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\LinqToDbTest1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\LinqToDbTest1\obj\Debug\LinqToDbTest1.csproj.CopyComplete
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\LinqToDbTest1\obj\Debug\LinqToDbTest1.exe
+D:\MyData\shizq18\Desktop\net学习\netLearning\ORM4\LinqToDbTest1\obj\Debug\LinqToDbTest1.pdb

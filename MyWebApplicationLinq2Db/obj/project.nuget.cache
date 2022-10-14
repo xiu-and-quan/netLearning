@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AqD75UrqTjjdT3sGqYH6ZH938mS9VtXiqQ5wopw3xRwKUoSKewVDZndzlTrgWSEOjPmIaYlQU3mXFf/zFY6eUw==",
+  "success": true,
+  "projectFilePath": "D:\\MyData\\shizq18\\Desktop\\net学习\\netLearning\\MyWebApplicationLinq2Db\\MyWebApplicationLinq2Db.csproj",
+  "expectedPackageFiles": [
+    "D:\\MyData\\shizq18\\.nuget\\packages\\linq2db\\4.3.0\\linq2db.4.3.0.nupkg.sha512",
+    "D:\\MyData\\shizq18\\.nuget\\packages\\linq2db.sqlserver\\4.3.0\\linq2db.sqlserver.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

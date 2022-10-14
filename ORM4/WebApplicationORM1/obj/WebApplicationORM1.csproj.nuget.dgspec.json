@@ -1,0 +1,94 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\net学习\\net学习\\netLearning\\ORM4\\WebApplicationORM1\\WebApplicationORM1.csproj": {}
+  },
+  "projects": {
+    "E:\\net学习\\net学习\\netLearning\\ORM4\\WebApplicationORM1\\WebApplicationORM1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\net学习\\net学习\\netLearning\\ORM4\\WebApplicationORM1\\WebApplicationORM1.csproj",
+        "projectName": "WebApplicationORM1",
+        "projectPath": "E:\\net学习\\net学习\\netLearning\\ORM4\\WebApplicationORM1\\WebApplicationORM1.csproj",
+        "packagesPath": "D:\\MyData\\shizq18\\.nuget\\packages\\",
+        "outputPath": "E:\\net学习\\net学习\\netLearning\\ORM4\\WebApplicationORM1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\MyData\\shizq18\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "linq2db": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "linq2db.SqlServer": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

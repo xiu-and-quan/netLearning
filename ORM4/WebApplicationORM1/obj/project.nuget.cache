@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "N5Ce2b8sotbQTN8/eTcJyvEbDHp1oJL7fKygOYEx3v5yPXCmna+6GadWZz6DDxtkkGfV+kGi00aCRsAOMlDurA==",
+  "success": true,
+  "projectFilePath": "E:\\net学习\\net学习\\netLearning\\ORM4\\WebApplicationORM1\\WebApplicationORM1.csproj",
+  "expectedPackageFiles": [
+    "D:\\MyData\\shizq18\\.nuget\\packages\\linq2db\\4.3.0\\linq2db.4.3.0.nupkg.sha512",
+    "D:\\MyData\\shizq18\\.nuget\\packages\\linq2db.sqlserver\\4.3.0\\linq2db.sqlserver.4.3.0.nupkg.sha512",
+    "D:\\MyData\\shizq18\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "D:\\MyData\\shizq18\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "D:\\MyData\\shizq18\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "D:\\MyData\\shizq18\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

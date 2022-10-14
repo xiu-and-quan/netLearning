@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z6mEPhzxxUtgNU6YX9SEl2SvtZsopxemFg6PBavTmA/qPXCBXbWKpZ/bOiqN9YB4+cUqkZK5tyTh/MA4rHeZdA==",
+  "success": true,
+  "projectFilePath": "E:\\net学习\\net学习\\netLearning\\ORM4\\WebApplicationORMTest06\\WebApplicationORMTest06.csproj",
+  "expectedPackageFiles": [
+    "D:\\MyData\\shizq18\\.nuget\\packages\\linq2db\\4.3.0\\linq2db.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

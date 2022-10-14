@@ -1,0 +1,15 @@
+D:\MyData\shizq18\Desktop\net学习\netLearning\Model\bin\Debug\Model.dll
+D:\MyData\shizq18\Desktop\net学习\netLearning\Model\bin\Debug\Model.pdb
+D:\MyData\shizq18\Desktop\net学习\netLearning\Model\bin\Debug\linq2db.dll
+D:\MyData\shizq18\Desktop\net学习\netLearning\Model\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MyData\shizq18\Desktop\net学习\netLearning\Model\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\MyData\shizq18\Desktop\net学习\netLearning\Model\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\MyData\shizq18\Desktop\net学习\netLearning\Model\bin\Debug\linq2db.xml
+D:\MyData\shizq18\Desktop\net学习\netLearning\Model\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\MyData\shizq18\Desktop\net学习\netLearning\Model\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\MyData\shizq18\Desktop\net学习\netLearning\Model\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\MyData\shizq18\Desktop\net学习\netLearning\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\MyData\shizq18\Desktop\net学习\netLearning\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\MyData\shizq18\Desktop\net学习\netLearning\Model\obj\Debug\Model.csproj.CopyComplete
+D:\MyData\shizq18\Desktop\net学习\netLearning\Model\obj\Debug\Model.dll
+D:\MyData\shizq18\Desktop\net学习\netLearning\Model\obj\Debug\Model.pdb

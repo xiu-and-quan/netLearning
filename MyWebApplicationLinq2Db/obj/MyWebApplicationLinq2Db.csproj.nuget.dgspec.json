@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MyData\\shizq18\\Desktop\\net学习\\netLearning\\MyWebApplicationLinq2Db\\MyWebApplicationLinq2Db.csproj": {}
+  },
+  "projects": {
+    "D:\\MyData\\shizq18\\Desktop\\net学习\\netLearning\\MyWebApplicationLinq2Db\\MyWebApplicationLinq2Db.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyData\\shizq18\\Desktop\\net学习\\netLearning\\MyWebApplicationLinq2Db\\MyWebApplicationLinq2Db.csproj",
+        "projectName": "MyWebApplicationLinq2Db",
+        "projectPath": "D:\\MyData\\shizq18\\Desktop\\net学习\\netLearning\\MyWebApplicationLinq2Db\\MyWebApplicationLinq2Db.csproj",
+        "packagesPath": "D:\\MyData\\shizq18\\.nuget\\packages\\",
+        "outputPath": "D:\\MyData\\shizq18\\Desktop\\net学习\\netLearning\\MyWebApplicationLinq2Db\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\MyData\\shizq18\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "linq2db": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "linq2db.SqlServer": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VHze3ZW2Hp/UE9xExcgb8IO6el2YyLh4UcqpVkwnEmkaHR9652Kf/Du48U7tLToTF27BzqQjHaFSn2QMARteBw==",
+  "success": true,
+  "projectFilePath": "E:\\net学习\\net学习\\netLearning\\ORM4\\linq2dbTest02\\linq2dbTest02.csproj",
+  "expectedPackageFiles": [
+    "D:\\MyData\\shizq18\\.nuget\\packages\\linq2db\\4.1.1\\linq2db.4.1.1.nupkg.sha512",
+    "D:\\MyData\\shizq18\\.nuget\\packages\\linq2db.sqlserver\\4.1.1\\linq2db.sqlserver.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
